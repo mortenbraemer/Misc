@@ -1,0 +1,102 @@
+[
+  {
+    "Code": 1000,
+    "Description": "A"
+  },
+  {
+    "Code": 2000,
+    "Description": "B"
+  },
+  {
+    "Code": 3000,
+    "Description": "C"
+  },
+  {
+    "Code": 4000,
+    "Description": "D"
+  },
+  {
+    "Code": 5000,
+    "Description": "E"
+  },
+  {
+    "Code": 6000,
+    "Description": "F"
+  },
+  {
+    "Code": 7000,
+    "Description": "G"
+  },
+  {
+    "Code": 8000,
+    "Description": "G"
+  },
+  {
+    "Code": 9000,
+    "Description": "I"
+  },
+  {
+    "Code": 10000,
+    "Description": "J"
+  },
+  {
+    "Code": 11000,
+    "Description": "K"
+  },
+  {
+    "Code": 12000,
+    "Description": "L"
+  },
+  {
+    "Code": 13000,
+    "Description": "M"
+  },
+  {
+    "Code": 14000,
+    "Description": "N"
+  },
+  {
+    "Code": 15000,
+    "Description": "O"
+  },
+  {
+    "Code": 16000,
+    "Description": "P"
+  },
+  {
+    "Code": 17000,
+    "Description": "Q"
+  },
+  {
+    "Code": 18000,
+    "Description": "R"
+  },
+  {
+    "Code": 19000,
+    "Description": "S"
+  },
+  {
+    "Code": 20000,
+    "Description": "T"
+  },
+  {
+    "Code": 21000,
+    "Description": "U"
+  },
+  {
+    "Code": 22000,
+    "Description": "V"
+  },
+  {
+    "Code": 23000,
+    "Description": "X"
+  },
+  {
+    "Code": 24000,
+    "Description": "Y"
+  },
+  {
+    "Code": 25000,
+    "Description": "Z"
+  }
+]
